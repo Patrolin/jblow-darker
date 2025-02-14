@@ -5,4 +5,4 @@ vsc-extension-quickstart.md
 *.vsix
 *.private
 assets/screenshots
-markdown_old.json
+markdown_old.jsonc

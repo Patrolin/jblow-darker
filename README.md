@@ -10,10 +10,15 @@ Tested with Typescript, Python, Odin, JSON, [Rainbow CSV](https://marketplace.vi
 
 # Screenshots
 ![Typescript](assets/screenshots/01_typescript_cropped.png "Typescript")
+
 ![Python](assets/screenshots/02_python_cropped.png "Python")
+
 ![Odin](assets/screenshots/03_odin_cropped.png "Odin")
+
 ![JSON](assets/screenshots/04_json_cropped.png "JSON")
+
 ![Rainbow CSV](assets/screenshots/05_csv_cropped.png "Rainbow CSV")
+
 ![Markdown](assets/screenshots/06_markdown_cropped.png "Markdown")
 
 # dev

@@ -1,9 +1,7 @@
 # Change Log
 
-All notable changes to the "jblow-dark" extension will be documented in this file.
+## 1.0.1
+- Don't publish unused files
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+## 1.0.0
+- Styles for Typescript, Python, Odin, JSON, Rainbow CSV and Markdown

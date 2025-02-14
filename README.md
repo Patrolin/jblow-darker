@@ -9,12 +9,12 @@ Recommended settings:
 Tested with Typescript, Python, Odin, JSON, [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
 
 # Screenshots
-![Typescript](assets/screenshots/01_typescript.png "Typescript")
-![Python](assets/screenshots/02_python.png "Python")
-![Odin](assets/screenshots/03_odin.png "Odin")
-![JSON](assets/screenshots/04_json.png "JSON")
-![Rainbow CSV](assets/screenshots/05_csv.png "Rainbow CSV")
-![Markdown](assets/screenshots/06_markdown.png "Markdown")
+![Typescript](assets/screenshots/01_typescript_cropped.png "Typescript")
+![Python](assets/screenshots/02_python_cropped.png "Python")
+![Odin](assets/screenshots/03_odin_cropped.png "Odin")
+![JSON](assets/screenshots/04_json_cropped.png "JSON")
+![Rainbow CSV](assets/screenshots/05_csv_cropped.png "Rainbow CSV")
+![Markdown](assets/screenshots/06_markdown_cropped.png "Markdown")
 
 # dev
 

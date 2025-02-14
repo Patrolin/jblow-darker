@@ -6,7 +6,7 @@ Recommended settings:
 - font-size: 15px
 - line-height: font-size + 4px
 
-Tested with Typescript, Python, Odin, JSON, [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+Tested with Typescript, Python, Odin, JSON, [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) and Markdown
 
 # Screenshots
 ![Typescript](assets/screenshots/01_typescript_cropped.png "Typescript")

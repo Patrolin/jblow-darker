@@ -4,4 +4,4 @@
 vsc-extension-quickstart.md
 *.vsix
 *.private
-assets/*
+assets/screenshots

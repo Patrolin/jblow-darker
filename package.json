@@ -1,0 +1,36 @@
+{
+  "name": "olow-darker",
+  "displayName": "jblow-darker",
+  "description": "Jon blow-like theme with darker background from monokai darker",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "jblow-darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jblow-darker-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/Patrolin/jblow-darker.git"
+  },
+  "bugs": {
+      "url": "https://github.com/Patrolin/jblow-darker/issues"
+  },
+  "homepage": "https://github.com/Patrolin/jblow-darker/blob/master/README.md",
+  "keywords": [
+    "jonathan",
+    "jon",
+    "blow",
+    "darker"
+  ],
+  "license": "MIT"
+}

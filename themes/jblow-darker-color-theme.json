@@ -185,6 +185,7 @@
 				// custom
 				"keyword.operator",
 				"markup.underline.link.markdown",
+				"entity.name.tag.html",
 			],
 			"settings": {
 				"foreground": "#aaa",
@@ -231,6 +232,16 @@
 			},
 		},
 		{
+			"name": "Builtin",
+			"scope": [
+				"support.function.builtin.python",
+				"support.function.builtin",
+			],
+			"settings": {
+				"foreground": "#bcdda1",
+			},
+		},
+		{
 			"name": "Comment",
 			"scope": [
 				"comment",
@@ -257,8 +268,12 @@
 				// "Escape Characters"
 				"constant.character.escape",
 				// custom
+				"punctuation.definition.template-expression.begin.ts",
+				"punctuation.definition.template-expression.end.ts",
+				"storage.type.string.python",
 				"punctuation.definition.string",
 				"markup.underline.link.markdown",
+				"markup.underline.link.image.markdown",
 				"punctuation.definition.raw.markdown",
 				"markup.inline.raw.string.markdown",
 				"punctuation.definition.markdown",

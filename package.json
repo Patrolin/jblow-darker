@@ -1,5 +1,6 @@
 {
-  "name": "olow-darker",
+  "publisher": "patrolin",
+  "name": "jblow-darker",
   "displayName": "jblow-darker",
   "description": "Jon blow-like theme with darker background from monokai darker",
   "version": "1.0.0",
@@ -26,6 +27,7 @@
       "url": "https://github.com/Patrolin/jblow-darker/issues"
   },
   "homepage": "https://github.com/Patrolin/jblow-darker/blob/master/README.md",
+  "icon": "assets/jb-darker-icon.png",
   "keywords": [
     "jonathan",
     "jon",

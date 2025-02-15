@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.0.2
+- Add default "editor.foreground" color
+
 ## 1.0.1
 - Don't publish unused files
 

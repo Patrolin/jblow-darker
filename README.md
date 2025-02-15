@@ -26,5 +26,7 @@ Tested with Typescript, Python, Odin, JSON, [Rainbow CSV](https://marketplace.vi
 ## Run
 Press F5
 
+`Ctrl+Shift+P tokens` to view which token is responsible for which color
+
 ## Publish
 https://code.visualstudio.com/api/working-with-extensions/publishing-extension

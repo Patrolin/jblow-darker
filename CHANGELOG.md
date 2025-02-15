@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.0.3
+- Fix markdown string colors
+
 ## 1.0.2
 - Add default "editor.foreground" color
 

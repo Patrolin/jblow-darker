@@ -176,8 +176,9 @@
         "text.html.markdown",
         // custom
         "keyword.operator",
-        "markup.underline.link.markdown",
         "entity.name.tag.html",
+        "entity.name.tag.tsx",
+        "markup.underline.link.markdown",
         "punctuation.definition.string.begin.markdown",
         "punctuation.definition.string.end.markdown"
       ],

@@ -180,7 +180,9 @@
         "entity.name.tag.tsx",
         "markup.underline.link.markdown",
         "punctuation.definition.string.begin.markdown",
-        "punctuation.definition.string.end.markdown"
+        "punctuation.definition.string.end.markdown",
+        "storage.type.built-in.cpp",
+        "storage.type.built-in.primitive.cpp"
       ],
       "settings": {
         "foreground": "#aaa"
@@ -199,7 +201,10 @@
         "markup.deleted.git_gutter",
         // custom
         "keyword.control",
-        "text.html.markdown punctuation"
+        "text.html.markdown punctuation",
+        "keyword.other.typedef.cpp",
+        "keyword.operator.new.cpp",
+        "keyword.other.typedef.c"
       ],
       "settings": {
         "foreground": "#ccc"
@@ -228,7 +233,20 @@
     },
     {
       "name": "Builtin",
-      "scope": ["support.function.builtin.python", "support.function.builtin"],
+      "scope": [
+        "support.function.builtin.python",
+        "support.function.builtin",
+        "keyword.operator.sizeof.cpp",
+        "keyword.operator.alignof.cpp",
+        "storage.type.decltype.cpp",
+        "keyword.operator.typeid.cpp",
+        "keyword.operator.cast.static_cast.cpp",
+        "keyword.operator.cast.dynamic_cast.cpp",
+        "keyword.operator.cast.const_cast.cpp",
+        "keyword.operator.cast.reinterpret_cast.cpp",
+        "keyword.operator.noexcept.cpp",
+        "keyword.operator.sizeof.c"
+      ],
       "settings": {
         "foreground": "#bcdda1"
       }
@@ -254,6 +272,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
         // "Regular Expressions"
         "string.regexp",
+        "string.regexp keyword.other",
         // "Escape Characters"
         "constant.character.escape",
         // custom

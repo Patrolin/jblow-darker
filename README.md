@@ -26,6 +26,8 @@ Tested with Typescript, Python, Odin, JSON, [Rainbow CSV](https://marketplace.vi
 ## Run
 Press F5
 
+`Ctrl+K Ctrl+O` > Open the `tests` subdirectory in this project (vscode doesn't let you open multiple copies of the same folder)
+
 `Ctrl+Shift+P tokens` to view which token is responsible for which color
 
 ## Publish

@@ -29,7 +29,7 @@ Tested with Typescript, Python, Odin, C/C++, JSON, [Rainbow CSV](https://marketp
   <img src="assets/screenshots/storage/csv_cropped.png" width="47%" hspace="1%" title="Rainbow CSV">
 </p>
 
-### Markup
+### Markup languages
 ![Markdown](assets/screenshots/markup/markdown_cropped.png "Markdown")
 
 # dev

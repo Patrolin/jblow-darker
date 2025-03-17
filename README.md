@@ -32,3 +32,11 @@ Press F5
 
 ## Publish
 https://code.visualstudio.com/api/working-with-extensions/publishing-extension
+
+Check which files will be published:
+
+`vsce package`
+
+Publish to VS marketplace:
+
+`vsce publish`

@@ -30,13 +30,18 @@ Press F5
 
 `Ctrl+Shift+P tokens` to view which token is responsible for which color
 
+
 ## Publish
 https://code.visualstudio.com/api/working-with-extensions/publishing-extension
 
-Check which files will be published:
+1) Update `CHANGELOG.md`
+
+2) Update version number in `package.json`
+
+2) Check which files will be published:
 
 `vsce package`
 
-Publish to VS marketplace:
+3) Publish to VS marketplace:
 
 `vsce publish`

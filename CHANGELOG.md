@@ -1,6 +1,9 @@
 # Change Log
 
 ## 1.0.4
+- Added support for C/C++
+
+## 1.0.4
 - Fix builtin React tag names in .tsx files
 
 ## 1.0.3

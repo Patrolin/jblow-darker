@@ -49,10 +49,6 @@ https://code.visualstudio.com/api/working-with-extensions/publishing-extension
 
 2) Update version number in `package.json`
 
-2) Check which files will be published:
+2) Check which files will be published: `vsce package`
 
-`vsce package`
-
-3) Publish to VS marketplace:
-
-`vsce publish`
+3) Publish to VS marketplace: `vsce publish`

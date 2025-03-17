@@ -6,3 +6,4 @@ vsc-extension-quickstart.md
 *.private
 assets/screenshots
 markdown_old.jsonc
+tests/**

@@ -1,6 +1,6 @@
 # Change Log
 
-## 1.0.4
+## 1.0.5
 - Added support for C/C++
 
 ## 1.0.4

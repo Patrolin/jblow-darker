@@ -9,17 +9,28 @@ Recommended settings:
 Tested with Typescript, Python, Odin, C/C++, JSON, [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) and Markdown
 
 # Screenshots
-![Typescript](assets/screenshots/01_typescript_cropped.png "Typescript")
 
-![Python](assets/screenshots/02_python_cropped.png "Python")
+### Programming languages
+<p>
+  <img src="assets/screenshots/programming/typescript_cropped.png" width="47%" hspace="1%" title="Typescript">
+  <img src="assets/screenshots/programming/python_cropped.png" width="47%" hspace="1%" title="Python">
+</p>
+<p>
+  <img src="assets/screenshots/programming/odin_cropped.png" width="47%" hspace="1%" title="Odin">
+  <img src="assets/screenshots/programming/cpp_cropped.png" width="47%" hspace="1%" title="C++">
+</p>
+<p>
+  <img src="assets/screenshots/programming/c_cropped.png" width="47%" hspace="1%" title="C">
+</p>
 
-![Odin](assets/screenshots/03_odin_cropped.png "Odin")
+### Storage Formats
+<p>
+  <img src="assets/screenshots/storage/json_cropped.png" width="47%" hspace="1%" title="JSON">
+  <img src="assets/screenshots/storage/csv_cropped.png" width="47%" hspace="1%" title="Rainbow CSV">
+</p>
 
-![JSON](assets/screenshots/04_json_cropped.png "JSON")
-
-![Rainbow CSV](assets/screenshots/05_csv_cropped.png "Rainbow CSV")
-
-![Markdown](assets/screenshots/06_markdown_cropped.png "Markdown")
+### Markup
+![Markdown](assets/screenshots/markup/markdown_cropped.png "Markdown")
 
 # dev
 

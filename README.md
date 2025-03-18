@@ -12,25 +12,25 @@ Tested with Typescript, Python, Odin, C/C++, JSON, [Rainbow CSV](https://marketp
 
 ### Programming languages
 <p>
-  <img src="assets/screenshots/programming/typescript_cropped.png" width="47%" hspace="1%" title="Typescript">
-  <img src="assets/screenshots/programming/python_cropped.png" width="47%" hspace="1%" title="Python">
+  <img src="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/programming/typescript_cropped.png" width="47%" hspace="1%" title="Typescript">
+  <img src="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/programming/python_cropped.png" width="47%" hspace="1%" title="Python">
 </p>
 <p>
-  <img src="assets/screenshots/programming/odin_cropped.png" width="47%" hspace="1%" title="Odin">
-  <img src="assets/screenshots/programming/cpp_cropped.png" width="47%" hspace="1%" title="C++">
+  <img src="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/programming/odin_cropped.png" width="47%" hspace="1%" title="Odin">
+  <img src="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/programming/cpp_cropped.png" width="47%" hspace="1%" title="C++">
 </p>
 <p>
-  <img src="assets/screenshots/programming/c_cropped.png" width="47%" hspace="1%" title="C">
+  <img src="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/programming/c_cropped.png" width="47%" hspace="1%" title="C">
 </p>
 
 ### Storage Formats
 <p>
-  <img src="assets/screenshots/storage/json_cropped.png" width="47%" hspace="1%" title="JSON">
-  <img src="assets/screenshots/storage/csv_cropped.png" width="47%" hspace="1%" title="Rainbow CSV">
+  <img src="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/storage/json_cropped.png" width="47%" hspace="1%" title="JSON">
+  <img src="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/storage/csv_cropped.png" width="47%" hspace="1%" title="Rainbow CSV">
 </p>
 
 ### Markup languages
-![Markdown](assets/screenshots/markup/markdown_cropped.png "Markdown")
+![Markdown](https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/markup/markdown_cropped.png?raw=true "Markdown")
 
 # dev
 

@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.0.6
+- Attempt to fix screenshots in vscode extension preview
+
 ## 1.0.5
 - Added support for C/C++
 

@@ -14,7 +14,7 @@ type Foo = {
   str: string;
 }
 function print_foo(foo: Foo) {
-  printf("foo.n: %v, foo.str: %v", foo.n, foo.str)
+  printf("foo.n: %v, foo.str: %v\n", foo.n, foo.str)
 }
 
 // extras

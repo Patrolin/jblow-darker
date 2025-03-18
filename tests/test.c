@@ -10,7 +10,7 @@ struct Foo {
 typedef Foo Foo;  // this is why you use C++ instead, i guess
 
 void print_foo(Foo foo) {
-  printf("foo.n: %lli, foo.string: %s", foo.n, foo.string);
+  printf("foo.n: %lli, foo.string: %s\n", foo.n, foo.string);
 
   // builtins
   sizeof(foo);

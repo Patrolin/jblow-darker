@@ -7,3 +7,4 @@ vsc-extension-quickstart.md
 assets/screenshots
 markdown_old.jsonc
 tests/**
+**.pyc

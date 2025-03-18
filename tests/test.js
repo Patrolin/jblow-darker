@@ -14,7 +14,7 @@ main();
   str: string;
 }*/
 function print_foo(foo/*: Foo*/) {
-  printf("foo.n: %v, foo.str: %v\n", foo.n, foo.str)
+  printf("foo.n: %v, foo.str: %v\n", foo.n > 0 ? foo.n : 0, foo.str)
 }
 
 // extras

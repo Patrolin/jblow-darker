@@ -5,6 +5,8 @@ typedef uint64_t u64;
 
 #include <typeinfo>
 
+#define hello world
+
 struct Foo {
   u64 n;
   const u8* string;

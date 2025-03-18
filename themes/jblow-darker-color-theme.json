@@ -202,8 +202,10 @@
         // custom
         "keyword.control",
         "text.html.markdown punctuation",
+        //"punctuation.definition.directive.cpp", // this looks wrong somehow when enabled
         "keyword.other.typedef.cpp",
         "keyword.operator.new.cpp",
+        //"punctuation.definition.directive.c",
         "keyword.other.typedef.c"
       ],
       "settings": {

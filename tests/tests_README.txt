@@ -13,5 +13,7 @@ Therefore, in each language we will:
 4) In print_foo(foo: Foo): Print the number and string fields of the struct separately
 5.1) Use a ternary expression (should be colored with default gray)
 5.2) Write a example comment (should be colored with comment green)
-5.3) Create and call a method (if applicable)
-5.4) Call a builtin function (if applicable)
+5.3) Do language-specific stuff (if applicable)
+  - Create and call a method
+  - Call a builtin function
+  - Use special keywords (`#include`, `new`, `#load()`, ...)

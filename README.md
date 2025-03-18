@@ -12,23 +12,26 @@ Tested with Typescript, Python, Odin, C/C++, JSON, [Rainbow CSV](https://marketp
 
 ### Programming languages
 <p>
-  <a href="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/programming/typescript_cropped.png">Typescript</a>&nbsp;
-  <a href="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/programming/python_cropped.png">Python</a>
+  <a href="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/programming/typescript_cropped.png?raw=true">Typescript</a>&nbsp;
+  <a href="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/programming/python_cropped.png?raw=true">Python</a>
 </p>
 <p>
-  <a href="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/programming/odin_cropped.png">Odin</a>&nbsp;
-  <a href="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/programming/cpp_cropped.png">C++</a>&nbsp;
-  <a href="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/programming/c_cropped.png">C</a>
+  <a href="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/programming/odin_cropped.png?raw=true">Odin</a>&nbsp;
+  <a href="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/programming/cpp_cropped.png?raw=true">C++</a>&nbsp;
+  <a href="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/programming/c_cropped.png?raw=true">C</a>
 </p>
 
 ### Storage Formats
 <p>
-  <a href="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/storage/json_cropped.png">JSON</a>&nbsp;
-  <a href="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/storage/csv_cropped.png">Rainbow CSV</a>
+  <a href="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/storage/json_cropped.png?raw=true">JSON</a>&nbsp;
+  <a href="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/storage/csv_cropped.png?raw=true">Rainbow CSV</a>
 </p>
 
 ### Markup languages
-![Markdown](https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/markup/markdown_cropped.png?raw=true "Markdown")
+[
+  ![Markdown](https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/markup/markdown_cropped.png?raw=true "Markdown")
+](https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/markup/markdown_cropped.png?raw=true)
+
 
 # dev
 

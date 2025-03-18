@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.0.8
+- Clickable image in vscode extension preview
+
 ## 1.0.7
 - Use links instead of image rows in readme
 

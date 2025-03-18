@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.0.7
+- Use links instead of image rows in readme
+
 ## 1.0.6
 - Attempt to fix screenshots in vscode extension preview
 

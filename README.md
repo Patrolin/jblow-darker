@@ -12,21 +12,19 @@ Tested with Typescript, Python, Odin, C/C++, JSON, [Rainbow CSV](https://marketp
 
 ### Programming languages
 <p>
-  <img src="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/programming/typescript_cropped.png" width="47%" hspace="1%" title="Typescript">
-  <img src="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/programming/python_cropped.png" width="47%" hspace="1%" title="Python">
+  <a href="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/programming/typescript_cropped.png">Typescript</a>&nbsp;
+  <a href="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/programming/python_cropped.png">Python</a>
 </p>
 <p>
-  <img src="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/programming/odin_cropped.png" width="47%" hspace="1%" title="Odin">
-  <img src="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/programming/cpp_cropped.png" width="47%" hspace="1%" title="C++">
-</p>
-<p>
-  <img src="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/programming/c_cropped.png" width="47%" hspace="1%" title="C">
+  <a href="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/programming/odin_cropped.png">Odin</a>&nbsp;
+  <a href="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/programming/cpp_cropped.png">C++</a>&nbsp;
+  <a href="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/programming/c_cropped.png">C</a>
 </p>
 
 ### Storage Formats
 <p>
-  <img src="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/storage/json_cropped.png" width="47%" hspace="1%" title="JSON">
-  <img src="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/storage/csv_cropped.png" width="47%" hspace="1%" title="Rainbow CSV">
+  <a href="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/storage/json_cropped.png">JSON</a>&nbsp;
+  <a href="https://github.com/Patrolin/jblow-darker/blob/master/assets/screenshots/storage/csv_cropped.png">Rainbow CSV</a>
 </p>
 
 ### Markup languages

@@ -18,7 +18,9 @@ function print_foo(foo: Foo) {
 }
 
 // extras
-class Bar {
+interface Boo extends Foo {}
+class Bar {}
+class Far extends Bar {
   n: number;
   str: string;
   constructor(n: number, str: string) {

@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.0.9
+- Fixed color of inherited class in JS/TS
+
 ## 1.0.8
 - Clickable image in vscode extension preview
 

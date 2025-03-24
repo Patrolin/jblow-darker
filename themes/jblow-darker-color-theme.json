@@ -178,13 +178,13 @@
         "keyword.operator",
         "entity.name.tag.html",
         "entity.name.tag.tsx",
-        "entity.other.inherited-class.js",
-        "entity.other.inherited-class.ts",
         "markup.underline.link.markdown",
         "punctuation.definition.string.begin.markdown",
         "punctuation.definition.string.end.markdown",
         "storage.type.built-in.cpp",
-        "storage.type.built-in.primitive.cpp"
+        "storage.type.built-in.primitive.cpp",
+        "entity.other.inherited-class.ts",
+        "entity.other.inherited-class.js"
       ],
       "settings": {
         "foreground": "#aaa"
@@ -208,7 +208,9 @@
         "keyword.other.typedef.cpp",
         "keyword.operator.new.cpp",
         //"punctuation.definition.directive.c",
-        "keyword.other.typedef.c"
+        "keyword.other.typedef.c",
+        "keyword.operator.new.ts",
+        "keyword.operator.new.js"
       ],
       "settings": {
         "foreground": "#ccc"

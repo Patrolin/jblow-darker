@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.0.10
+- Fixed color of `new` in JS/TS
+
 ## 1.0.9
 - Fixed color of inherited class in JS/TS
 

@@ -3,7 +3,7 @@
   "name": "jblow-darker",
   "displayName": "jblow-darker",
   "description": "Jon blow-like theme with darker background from monokai darker",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "engines": {
     "vscode": "^1.97.0"
   },

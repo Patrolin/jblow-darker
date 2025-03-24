@@ -8,6 +8,7 @@ function main() {
   far.print();
   typeof foo === 'string';
   foo instanceof String;
+  'str' in foo;
 }
 main();
 

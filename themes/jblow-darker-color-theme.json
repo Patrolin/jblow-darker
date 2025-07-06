@@ -184,7 +184,9 @@
         "storage.type.built-in.cpp",
         "storage.type.built-in.primitive.cpp",
         "entity.other.inherited-class.ts",
-        "entity.other.inherited-class.js"
+        "entity.other.inherited-class.js",
+        "meta.template.expression.ts",
+        "meta.template.expression.js"
       ],
       "settings": {
         "foreground": "#aaa"

@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.0.11
+- Fixed template expressions being green in JS/TS
+
 ## 1.0.10
 - Fixed color of `new` in JS/TS
 

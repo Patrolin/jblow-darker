@@ -36,3 +36,7 @@ class Far extends Bar {
     print_foo({n: this.n, str: this.str});
   }
 }
+
+`/path?${encodeQuery({
+  type: [row.type, `hello: ${hello()}`],
+})}`

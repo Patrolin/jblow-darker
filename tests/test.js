@@ -39,3 +39,7 @@ class Far extends Bar {
 `/path?${encodeQuery({
   type: [row.type, 1, `hello: ${hello()}`],
 })}`
+
+const obj = {key: "value"};
+delete obj["key"];
+const type = typeof obj;

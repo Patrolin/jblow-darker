@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.0.12
+- Minor improvements to JS/TS keywords (delete, keyof, typeof)
+
 ## 1.0.11
 - Fixed template expressions being green in JS/TS
 

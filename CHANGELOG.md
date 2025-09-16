@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.0.13
+- Made .tsx files behave the same as .ts files
+
 ## 1.0.12
 - Minor improvements to JS/TS keywords (delete, keyof, typeof)
 

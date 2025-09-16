@@ -183,8 +183,10 @@
         "punctuation.definition.string.end.markdown",
         "storage.type.built-in.cpp",
         "storage.type.built-in.primitive.cpp",
+        "entity.other.inherited-class.tsx",
         "entity.other.inherited-class.ts",
         "entity.other.inherited-class.js",
+        "meta.template.expression.tsx",
         "meta.template.expression.ts",
         "meta.template.expression.js"
       ],
@@ -211,11 +213,15 @@
         "keyword.operator.new.cpp",
         //"punctuation.definition.directive.c",
         "keyword.other.typedef.c",
+        "keyword.operator.new.tsx",
         "keyword.operator.new.ts",
         "keyword.operator.new.js",
+        "keyword.operator.expression.delete.tsx",
         "keyword.operator.expression.delete.ts",
         "keyword.operator.expression.delete.js",
+        "meta.type.declaration.tsx keyword.operator.expression.typeof.tsx",
         "meta.type.declaration.ts keyword.operator.expression.typeof.ts",
+        "meta.type.declaration.tsx keyword.operator.expression.keyof.tsx",
         "meta.type.declaration.ts keyword.operator.expression.keyof.ts"
       ],
       "settings": {
@@ -288,8 +294,10 @@
         // "Escape Characters"
         "constant.character.escape",
         // custom
-        "punctuation.definition.template-expression.begin.ts",
-        "punctuation.definition.template-expression.end.ts",
+        /* NOTE: vscode has a bug where template string brackets are highlighted as colored brackets in .js, but not in .ts/.tsx */
+        "punctuation.definition.template-expression.begin",
+        "punctuation.definition.template-expression.end",
+        /* -NOTE */
         "storage.type.string.python",
         "punctuation.definition.string",
         "markup.underline.link.markdown",

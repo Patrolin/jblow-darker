@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.0.15
+- Fix numeric-looking struct keys in yaml
+
 ## 1.0.14
 - Added .yml/.yaml support
 

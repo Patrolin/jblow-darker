@@ -188,7 +188,8 @@
         "entity.other.inherited-class.js",
         "meta.template.expression.tsx",
         "meta.template.expression.ts",
-        "meta.template.expression.js"
+        "meta.template.expression.js",
+        "entity.name.tag.yaml"
       ],
       "settings": {
         "foreground": "#aaa"
@@ -222,7 +223,8 @@
         "meta.type.declaration.tsx keyword.operator.expression.typeof.tsx",
         "meta.type.declaration.ts keyword.operator.expression.typeof.ts",
         "meta.type.declaration.tsx keyword.operator.expression.keyof.tsx",
-        "meta.type.declaration.ts keyword.operator.expression.keyof.ts"
+        "meta.type.declaration.ts keyword.operator.expression.keyof.ts",
+        "punctuation.definition.block.sequence.item.yaml"
       ],
       "settings": {
         "foreground": "#ccc"

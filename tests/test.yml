@@ -1,0 +1,7 @@
+struct:
+  list of things:
+    - string A
+    - string B
+    - 13
+  other struct:
+    score: 2

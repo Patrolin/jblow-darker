@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.0.14
+- Added .yml/.yaml support
+
 ## 1.0.13
 - Made .tsx files behave the same as .ts files
 
